@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-milvus
+langchain-ollama
+pypdf
+rapidocr-onnxruntime
+sentence-transformers
+transformers==4.42.4
